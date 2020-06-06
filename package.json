@@ -4,7 +4,7 @@
   "description": "Sample paypal app",
   "main": "app.js",
   "scripts": {
-    "start": "node app"
+    "start": "node app.js"
   },
   "author": "Brad Traversy",
   "license": "MIT",
