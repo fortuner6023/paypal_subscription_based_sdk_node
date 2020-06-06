@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Brad Traversy",
+  "author": "Naveen Saini",
   "license": "MIT",
   "dependencies": {
     "ejs": "^2.5.7",
